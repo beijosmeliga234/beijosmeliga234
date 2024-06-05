@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas Vindas ao Perifl 💙
 
-<!--
-**beijosmeliga234/beijosmeliga234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Andrey Malvestio
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvlvimento na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos Desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Voce pode entrar em contato comigo 📫
+
+  Andrey123gl@gmail.com
+  
+  @a.malvestio
+
+![](https://media1.tenor.com/m/2EBMCLCJjIgAAAAC/frieza.gif)
+ 
